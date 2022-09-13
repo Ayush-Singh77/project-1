@@ -29,8 +29,7 @@ body {
 .title_small {
   font-size: 56px;
   color: cyan;
-  
-   text-align: center;
+  margin: auto;
 }
 
 .form_container {
