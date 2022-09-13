@@ -29,7 +29,7 @@ body {
 .title_small {
   font-size: 56px;
   color: cyan;
-  margin: auto;
+  margin-left: 150;
   align-text: center;
 }
 
