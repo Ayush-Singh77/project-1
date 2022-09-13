@@ -30,6 +30,7 @@ body {
   font-size: 56px;
   color: cyan;
   margin: auto;
+  align-text: center;
 }
 
 .form_container {
