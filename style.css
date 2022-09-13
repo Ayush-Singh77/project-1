@@ -29,7 +29,8 @@ body {
 .title_small {
   font-size: 56px;
   color:aqua;
-  margin-left: 150px;
+  
+   text-align: center;
 }
 
 .form_container {
